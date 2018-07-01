@@ -1,4 +1,4 @@
-// Select color input
+// Select color i
 // Select size input
 
 // When size is submitted by the user, call makeGrid()
